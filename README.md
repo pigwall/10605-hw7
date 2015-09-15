@@ -1,6 +1,8 @@
 # 10605-hw7
 
-run the code with following command line in autolab:
+This is a matrix defactorization program in python.
+
+Run the code with following command line in autolab:
 
 spark-submit dsgd_mf.py <num_factors> <num_workers> <num_iterations> \
 <beta_value> <lambda_value> \
